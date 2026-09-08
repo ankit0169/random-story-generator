@@ -13,7 +13,7 @@ A simple Python project that generates random and fun stories using user inputs.
 
 ## 📸 Project Output
 
-<img width="606" height="455" alt="Screenshot 2026-09-09 021907" src="https://github.com/user-attachments/assets/ef92622e-97c4-4ea6-9fe4-c783be79610f" />
+<img width="589" height="451" alt="Screenshot 2026-09-09 023541" src="https://github.com/user-attachments/assets/1ddf5593-b873-47d9-8ab7-f4fca1d81067" />
 
 ## 🚀 How to Run
 1. Download or clone this repository.
